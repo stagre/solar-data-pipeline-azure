@@ -1,3 +1,21 @@
+# sensitive or large data
+/data-ingestion/data/
+
+# local files 
+.history/
+.history/**
+.vscode/
+*.code-workspace
+.env
+*.env
+.DS_Store
+
+# Python / Notebook temp files
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+*.nbconvert.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

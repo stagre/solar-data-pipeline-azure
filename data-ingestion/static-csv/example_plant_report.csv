@@ -1,0 +1,8 @@
+Plant report_Day_5min_20250101
+Plant name,Time,Installed Power(kWp),Real-time power(kW),Daily yield(kWh),Total yield(kWh),Daily equivalent hours(h),Daily consumption(kWh),Total power consumption(kWh),Daily feed-in energy(kWh),Total feed-in energy(kWh),Energy purchased today(kWh),Total purchased energy(kWh),Daily load consumption(kWh)
+Plant 2,2025-01-01 00:00,10.000,0.00,0.00,5559.20,0.00,,,,,,,
+Plant 2,2025-01-01 00:05,10.000,0.00,0.00,5559.20,0.00,,,,,,,
+Plant 2,2025-01-01 00:10,10.000,0.00,0.00,5559.20,0.00,,,,,,,
+Plant 1,2025-01-01 00:00,10.000,0.00,0.00,5539.20,0.00,,,,,,,
+Plant 1,2025-01-01 00:05,10.000,0.00,0.00,5539.20,0.00,,,,,,,
+Plant 1,2025-01-01 00:10,10.000,0.00,0.00,5539.20,0.00,,,,,,,
