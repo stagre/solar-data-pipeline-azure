@@ -1,5 +1,6 @@
 # sensitive or large data
 /data-ingestion/data/
+global_parameters.py
 
 # local files 
 .history/
